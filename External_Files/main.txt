@@ -1,3 +1,19 @@
-if (True) {
-	int var = 1;
-}
+palabra
+8765
+98.45
+"Hello World 12.]"
+int float void
++-*/
+> < >= <=
+|| && ! == !=
+;,(){}=$
+if
+while
+return
+else
+=> &= |&
+@ # - [ ]
+2asd
+6..4
+123.
+Hola Mundo"
