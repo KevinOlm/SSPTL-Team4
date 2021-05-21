@@ -115,5 +115,6 @@ class Tokenizer:
             #En caso de que sea un caracter extraño, marca error
             elif(char != "\t" and char != "\n" and char != " "):
                 tokens.append(self.__tokenCreator(char, "Error, caracter no reconocido"))
-                
+
+        tokens.append(self.__tokenCreator('end', 23))
         return tokens
